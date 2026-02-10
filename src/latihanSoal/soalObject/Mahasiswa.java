@@ -9,9 +9,9 @@ public class Mahasiswa {
     String alamat;
     int umur;
 
-    public static void showMahasiwa(Mahasiswa mhs) {
-        System.out.println("Nama    : " + mhs.nama);
-        System.out.println("Alamat  : " + mhs.alamat);
-        System.out.println("Umur    : " + mhs.umur);
+    public static void showMahasiwa(Mahasiswa paramMahasiswa) {
+        System.out.println("Nama    : " + paramMahasiswa.nama);
+        System.out.println("Alamat  : " + paramMahasiswa.alamat);
+        System.out.println("Umur    : " + paramMahasiswa.umur);
     }
 }
