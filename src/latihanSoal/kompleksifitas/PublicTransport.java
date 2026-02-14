@@ -1,4 +1,4 @@
-    class PublicTransport {
+public class PublicTransport {
     // create a vehicle field
     String unitName;
     int capacity;

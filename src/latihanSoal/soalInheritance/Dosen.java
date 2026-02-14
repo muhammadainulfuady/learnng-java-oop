@@ -1,4 +1,4 @@
-public class Dosen extends Karyawan {
+public class Dosen extends Employee {
     int tunjanganSertifikasi;
 
     public Dosen(String name, int gajiPokok, int tunjanganSertifikasi) {
