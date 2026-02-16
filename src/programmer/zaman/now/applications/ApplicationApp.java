@@ -1,6 +1,6 @@
 package programmer.zaman.now.applications;
 
-import programmer.zaman.now.data.Product;
+import programmer.zaman.now.data.*;
 
 public class ApplicationApp {
     public static void main(String[] args) {
